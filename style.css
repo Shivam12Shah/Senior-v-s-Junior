@@ -138,12 +138,12 @@ html, body{
     border: 1px solid #c4c4c4;
 }
 #page2-left #page2-left-p1 h2{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 200;
     line-height: 40px;
 }
 #page2-left #page2-left-p1 #links{
-    margin-top:30%;
+    margin-top:25%;
 }
 #page2-left #page2-left-p1 #links a{
     padding: 4px 20px;
@@ -196,7 +196,7 @@ html, body{
     /* background-color: red; */
     padding: 30px;
     border-radius: 30px;
-    font-size: 40px;
+    font-size: 30px;
     border: 1px solid #c4c4c4;
 
 }
@@ -223,7 +223,7 @@ html, body{
 }
 #b4-p1 p{
     color: gray;
-    margin-top: 120px;
+    margin-top: 80px;
 }
 #b4-p2{
     width: 49%;
@@ -239,7 +239,7 @@ html, body{
 }
 #b4-p2 p{
     color: gray;
-    margin-top: 120px;
+    margin-top: 80px;
 }
 
 #page2 #page2-right{
@@ -255,6 +255,9 @@ html, body{
     padding: 5%;
     border: 1px solid #c4c4c4;
     border-radius: 30px;
+}
+#page2-right-p1:hover{
+    background-color: #e7aebf;
 }
 #page2-right-p1 h2{
     height: 70px;
@@ -290,7 +293,7 @@ html, body{
     border: 1px solid #c4c4c4;
 }
 #page2-right-p2 h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 #page2-right #page2-right-p3{
     width: 100%;
@@ -372,7 +375,7 @@ html, body{
 }
 .card-container{
     display: inline-block;
-    animation-name: move;
+    /* animation-name: move; */
     animation-duration: 18s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
