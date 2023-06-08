@@ -2,10 +2,10 @@
     font-family: ppf;
     src: url(./PPFraktionSans-Medium.otf);
 }
-@font-face {
+/* @font-face {
     font-family: pro;
     src: url(./proxima_nova_regular.otf);
-}
+} */
 
 *{
     padding: 0;
